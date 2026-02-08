@@ -2,10 +2,10 @@
 
 This repository accompanies the paper:
 
-**A Practical Governance Architecture for Federated Multi-Agent AI Systems**
+**A Practical Governance Architecture for Federated Multi-Agent AI Systems**  
 **Joseph R. Daily**
 
-This repository does not contain source code for the live system. It provides the architectural documentation and operational reference for a live federated multi-agent AI system.
+This repository does not contain source code. It provides the architectural documentation and operational reference for a live federated multi-agent AI system.
 
 ---
 
