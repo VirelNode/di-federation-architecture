@@ -2,7 +2,7 @@
 
 This repository accompanies the paper:
 
-**"A Practical Governance Architecture for Federated Multi-Agent AI Systems"**  
+**A Practical Governance Architecture for Federated Multi-Agent AI Systems**
 **Joseph R. Daily**
 
 This repository does not contain source code for the live system. It provides the architectural documentation and operational reference for a live federated multi-agent AI system.
@@ -33,7 +33,7 @@ This paper describes:
 The file `DI_Federation_Operations_Guide_Sanitized.pdf` is the operational companion to the paper.
 
 It documents how the architecture is implemented in a live system while
-intentionally omitting environment-specific details, paths, ports, and code.
+intentionally omitting environment-specific details.
 
 This guide shows:
 
