@@ -2,12 +2,10 @@
 
 This repository accompanies the paper:
 
-**"A Practical Governance Architecture for Federated Multi-Agent AI Systems"**
-Author: **Joseph R. Daily**
+**"A Practical Governance Architecture for Federated Multi-Agent AI Systems"**  
+**Joseph R. Daily**
 
-This repo does **not** contain source code for the live system.
-Instead, it provides the architectural documentation and operational reference
-for a real, functioning federated multi-agent AI system.
+This repository does not contain source code for the live system. It provides the architectural documentation and operational reference for a live federated multi-agent AI system.
 
 ---
 
@@ -60,11 +58,9 @@ The `/diagrams` folder contains visual representations of:
 
 ## ⚠️ What This Repository Is Not
 
-This is **not** an open-source agent framework.
+This is not an open-source agent framework.
 
-This repository exists to document a governance architecture and its
-reference implementation for researchers, engineers, and AI safety
-practitioners interested in multi-agent system design.
+The DI Federation is an operational system. This repository exists to document the governance architecture and its reference implementation for researchers, engineers, and AI safety practitioners interested in multi-agent system design.
 
 ---
 
