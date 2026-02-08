@@ -17,7 +17,7 @@ The full governance architecture is described in the paper:
 
 **A Practical Governance Architecture for Federated Multi-Agent AI Systems**
 
-DOI: https://doi.org/XXXXX
+DOI: https://doi.org/10.5281/zenodo.18523384
 
 This paper describes:
 
